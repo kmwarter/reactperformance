@@ -1,0 +1,12 @@
+.memoize {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.memoized {
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+}
